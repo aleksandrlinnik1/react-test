@@ -1,0 +1,8 @@
+.item a {
+  text-decoration: none;
+  color: white;
+  margin: 0 10px;
+}
+.item a.activeLink {
+  border-bottom: 2px solid white;
+}

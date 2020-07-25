@@ -1,0 +1,11 @@
+.employeeName {
+  display: flex;
+  padding: 3px;
+  border: 1px solid black;
+  margin-bottom: 2px;
+  justify-content: space-between;
+  text-transform: uppercase;
+  font-size: 18px;
+}
+
+

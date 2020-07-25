@@ -1,0 +1,10 @@
+.logo {
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 70px;
+  height: 60px;
+  background-color: rgb(76,128,128);
+  text-align: center;
+}
