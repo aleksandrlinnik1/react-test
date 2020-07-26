@@ -1,4 +1,4 @@
-# React test taskgi [DEMO](https://aleksandrlinnik1.github.io/react-test/)
+# React test task [DEMO](https://aleksandrlinnik1.github.io/react-test/)
 # Task:
 
 С использованием библиотеки React реализовать приложение, которое умеет показывать следующие страницы:
